@@ -1,6 +1,6 @@
 # Program-For-Fibonacci-Numbers
 
-This is a my first repository written in C Programming Language aim of this program is to display Fibonacci Series upto the given input Number using recursion 
+This is a my first repository written in C Programming Language aim of this program is to display Fibonacci Series upto the given input Number using recursion method
 
 The Fibonacci numbers are the numbers in the following integer sequence
 
