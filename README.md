@@ -1,4 +1,4 @@
-# Program-For-Fibonacci-Numbers
+# Program For Fibonacci Numbers
 
 This is a my First Repository written in C Programming Language.
 
