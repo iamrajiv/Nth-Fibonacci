@@ -11,7 +11,7 @@ printf ("Enter the Number Upto which Fibonacci Series Exist: ");
 scanf ("%d", &n);
 
 
-printf ("Fibonacci Series upto the given Number: ");
+printf ("Fibonacci Series Upto the given Number: ");
 
 
 for (i = 1; i <= n; ++i)
