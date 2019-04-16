@@ -6,12 +6,12 @@ int main ()
 int i, n, t1 = 0, t2 = 1, nextTerm;
 
 
-printf ("Enter the Number Upto which Fibonacci Series Exist: ");
+printf ("Enter the Number upto which Fibonacci Series Exist: ");
 
 scanf ("%d", &n);
 
 
-printf ("Fibonacci Series Upto the given Number: ");
+printf ("Fibonacci Series upto the Given Number: ");
 
 
 for (i = 1; i <= n; ++i)
