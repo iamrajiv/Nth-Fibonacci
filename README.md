@@ -1,6 +1,6 @@
 # Program For Fibonacci Numbers Sequence
 
-This is a My First Repository written in C Programming Language.
+This is a my First Repository written in C Programming Language.
 
 Aim of this Program is to Display Fibonacci Sequence upto the given input Number Using Recursion Method.
 
@@ -8,7 +8,7 @@ The Fibonacci Numbers are the Numbers in the Following Positive Integer Sequence
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
-In Mathematical Terms, The Sequence Fn of Fibonacci Numbers is Defined by the Recurrence Relation
+In Mathematical Terms, The Sequence Fn of Fibonacci Numbers is defined by the Recurrence Relation
 
     Fn = Fn-1 + Fn-2
     
