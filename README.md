@@ -1,10 +1,10 @@
 # Program For Fibonacci Numbers Sequence
 
-This is a My first Repository written in C Programming Language.
+This is a My First Repository written in C Programming Language.
 
 Aim of this Program is to Display Fibonacci Sequence upto the given input Number Using Recursion Method.
 
-The Fibonacci Numbers are the Numbers in the following Positive Integer Sequence:
+The Fibonacci Numbers are the Numbers in the Following Positive Integer Sequence:
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
