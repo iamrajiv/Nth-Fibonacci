@@ -1,6 +1,6 @@
 # Program For Fibonacci Numbers Sequence
 
-This is a MY First Repository written in C Programming Language.
+This is a My First Repository written in C Programming Language.
 
 Aim of this Program is to Display Fibonacci Sequence upto the given input Number Using Recursion Method.
 
