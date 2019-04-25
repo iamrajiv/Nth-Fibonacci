@@ -8,7 +8,7 @@ The Fibonacci Numbers are the Numbers in the Following Positive Integer Sequence
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
-In Mathematical Terms, The Sequence Fn of Fibonacci Numbers is Defined By the Recurrence Relation
+In Mathematical Terms, The Sequence Fn of Fibonacci Numbers is defined by the Recurrence Relation
 
     Fn = Fn-1 + Fn-2
     
