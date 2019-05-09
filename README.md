@@ -2,7 +2,7 @@
 
 This is My First Repository written in C Programming Language.
 
-Aim of this Program is to Display Fibonacci Sequence upto the given input Number Using Recursion Method.
+Aim of this Program is to Display Fibonacci Sequence upto the given Input Number Using Recursion Method.
 
 The Fibonacci Numbers are the Numbers in the Following Positive Integer Sequence:
 
