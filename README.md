@@ -12,4 +12,4 @@ In Mathematical Terms, The Sequence Fn of Fibonacci Numbers is defined by the Re
 
     Fn = Fn-1 + Fn-2
     
-Time Complexity of this Recursion Program is T(n) = T(n-1) + T(n-2) which is Exponential.
+Time Complexity of this Recursion Program is T(n) = T(n-1) + T(n-2) which Is Exponential.
