@@ -3,7 +3,7 @@
 int main ()
 {
 
-int i, n, t1 = 0, t2 = 1, nextTerm;
+int i, n, t1 = 0, t2 = 1, nextterm;
 
 
 printf ("Enter the Number upto which Fibonacci Series Exist: ");
