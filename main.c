@@ -6,7 +6,7 @@ int main ()
 int i, n, t1 = 0, t2 = 1, nextTerm;
 
 
-printf ("Enter the Number uUpto which Fibonacci Series Exist: ");
+printf ("Enter the Number upto which Fibonacci Series Exist: ");
 
 scanf ("%d", &n);
 
