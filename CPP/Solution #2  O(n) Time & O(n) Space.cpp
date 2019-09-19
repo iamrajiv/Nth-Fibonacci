@@ -1,6 +1,6 @@
 using namespace std;
 
-// O(2^n) time | O(n) 
+// O(2^n) time O(n) 
 
 int getNthFib(int n){
 	if (n == 2) {
