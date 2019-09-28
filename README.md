@@ -7,8 +7,8 @@ The fibonacci numbers appear as numbers of spirals in leaves and seedheads as we
 
 The fibonacci numbers are the terms of a sequence of integers in which each term is the sum of the two previous terms with
 
-$$ F1 = F2=1,Fn=Fn−1+Fn−2 $$
+F1 = F2=1,Fn=Fn−1+Fn−2
 
 The first few terms are
 
-$$ 1,1,2,3,5,8,13,21,34,55,89,144,…. $$
+1,1,2,3,5,8,13,21,34,55,89,144,….
