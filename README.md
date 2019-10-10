@@ -1,5 +1,5 @@
 
-# Fibonacci Sequence
+# Nth Fibonacci
 
 The Fibonacci sequence is an integer sequence defined by a simple linear recurrence relation. The sequence appears in many settings in mathematics and in other sciences. In particular, the shape of many naturally occurring biological organisms is governed by the Fibonacci sequence and its close relative, the golden ratio.
 
@@ -13,4 +13,4 @@ The first few terms are
 
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
-This is my First Repository written about Fibonacci Sequence in different programming languages (C++, Go, Java, Javascript and Python).
+This is my first repository written about Nth Fibonacci in different programming languages (C++, Go, Java, Javascript, Python and C# ).
