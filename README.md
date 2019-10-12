@@ -13,4 +13,4 @@ The first few terms are
 
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
-This was my first repository written about Nth Fibonacci in different programming languages (C++, Go, Java, Javascript, Python and C# ).
+This was my first repository written about Fibonacci sequence in different programming languages (C++, Go, Java, Javascript, Python and C# ).
