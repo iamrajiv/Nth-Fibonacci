@@ -12,7 +12,7 @@ The Fibonacci sequence is an integer sequence defined by a simple linear recurre
 
 The Fibonacci numbers appear as numbers of spirals in leaves and seedheads as well.
 
-The Fibonacci numbers are the terms of a sequence of integers in which each term is the sum of the two previous terms with :
+The Fibonacci numbers are the terms of a sequence of integers in which each term is the sum of the two previous terms with
 
     F1 = F2 = 1, Fn = Fn-1 + Fn-2
 
