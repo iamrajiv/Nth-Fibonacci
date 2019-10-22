@@ -1,5 +1,5 @@
 
-# Fibonacci Sequence
+# FIBONACCI SEQUENCE
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
@@ -8,19 +8,19 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-The Fibonacci sequence is an integer sequence defined by a simple linear recurrence relation. The sequence appears in many settings in mathematics and in other sciences. In particular, the shape of many naturally occurring biological organisms is governed by the Fibonacci sequence and its close relative, the golden ratio.
+THE FIBONACCI SEQUENCE IS AN INTEGER SEQUENCE DEFINED BY A SIMPLE LINEAR RECURRENCE RELATION. THE SEQUENCE APPEARS IN MANY SETTINGS IN MATHEMATICS AND IN OTHER SCIENCES. IN PARTICULAR, THE SHAPE OF MANY NATURALLY OCCURRING BIOLOGICAL ORGANISMS IS GOVERNED BY THE FIBONACCI SEQUENCE AND ITS CLOSE RELATIVE, THE GOLDEN RATIO.
 
-The Fibonacci numbers appear as numbers of spirals in leaves and seedheads as well.
+THE FIBONACCI NUMBERS APPEAR AS NUMBERS OF SPIRALS IN LEAVES AND SEEDHEADS AS WELL.
 
-The Fibonacci numbers are the terms of a sequence of integers in which each term is the sum of the two previous terms with
+THE FIBONACCI NUMBERS ARE THE TERMS OF A SEQUENCE OF INTEGERS IN WHICH EACH TERM IS THE SUM OF THE TWO PREVIOUS TERMS WITH
 
-    F1 = F2 = 1, Fn = Fn-1 + Fn-2
+    F1 = F2 = 1, FN = FN-1 + FN-2
 
-The first few terms are
+THE FIRST FEW TERMS ARE
 
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
-This was my first repository written about Fibonacci sequence in different programming languages (C++, Go, Java, Javascript, Python and C#).
+THIS WAS MY FIRST REPOSITORY WRITTEN ABOUT THE FIBONACCI SEQUENCE IN DIFFERENT PROGRAMMING LANGUAGES (C++, GO, JAVA, JAVASCRIPT, PYTHON AND C#).
 
 ## CONTRIBUTING
 PULL REQUESTS ARE WELCOME. FOR MAJOR CHANGES, PLEASE OPEN AN ISSUE FIRST TO DISCUSS WHAT YOU WOULD LIKE TO CHANGE.
