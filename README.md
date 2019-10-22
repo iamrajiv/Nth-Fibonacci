@@ -21,3 +21,8 @@ The first few terms are
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
 
 This was my first repository written about Fibonacci sequence in different programming languages (C++, Go, Java, Javascript, Python and C#).
+
+## CONTRIBUTING
+PULL REQUESTS ARE WELCOME. FOR MAJOR CHANGES, PLEASE OPEN AN ISSUE FIRST TO DISCUSS WHAT YOU WOULD LIKE TO CHANGE.
+
+PLEASE MAKE SURE TO UPDATE TESTS AS APPROPRIATE.
