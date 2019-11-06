@@ -1,13 +1,6 @@
 
 # FIBONACCI SEQUENCE
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
 THE FIBONACCI SEQUENCE IS AN INTEGER SEQUENCE DEFINED BY A SIMPLE LINEAR RECURRENCE RELATION. THE SEQUENCE APPEARS IN MANY SETTINGS IN MATHEMATICS AND IN OTHER SCIENCES. IN PARTICULAR, THE SHAPE OF MANY NATURALLY OCCURRING BIOLOGICAL ORGANISMS IS GOVERNED BY THE FIBONACCI SEQUENCE AND ITS CLOSE RELATIVE, THE GOLDEN RATIO.
 
 THE FIBONACCI NUMBERS APPEAR AS NUMBERS OF SPIRALS IN LEAVES AND SEEDHEADS AS WELL.
