@@ -1,6 +1,11 @@
 
 # FIBONACCI SEQUENCE
 
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)
+[![License](https://img.shields.io/badge/license-mit-brightgreen.svg?style=flat)](https://github.com/iamrajiv/VTU-Lab-Programmes/blob/master/LICENSE)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
