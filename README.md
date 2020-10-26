@@ -55,11 +55,11 @@ The formula to generate the nth Fibonacci number can be written as follows: F(n)
 
 **Approach 2: O(n) time | O(n) space**
 
-Find the runtime implications of solving this problem as is described in Approach 1 and use memoization (caching) to improve the performance of your algorithm.
+Find the runtime implications of solving this problem as is described in Approach 1 and use memoization (caching) to improve the performance of the algorithm.
 
 **Approach 3: O(n) time | O(1) space**
 
-To calculate any single Fibonacci number you only need to have the two previous Fibonacci numbers. Knowing this, you can implement an iterative algorithm to solve this question, storing only the last two Fibonacci numbers at any given time.
+To calculate any single Fibonacci number only need to have the two previous Fibonacci numbers. Knowing this, implement an iterative algorithm to solve this question, storing only the last two Fibonacci numbers at any given time.
 
 ## License
 
