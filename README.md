@@ -59,7 +59,7 @@ Find the runtime implications of solving this problem as is described in Approac
 
 **Approach 3: O(n) time | O(1) space**
 
-To calculate any single Fibonacci number only need to have the two previous Fibonacci numbers. Knowing this, implement an iterative algorithm to solve this question, storing only the last two Fibonacci numbers at any given time.
+To calculate any single Fibonacci number only need is to have two previous Fibonacci numbers. Knowing this, implement an iterative algorithm to solve this question, storing only the last two Fibonacci numbers at any given time.
 
 ## License
 
