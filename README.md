@@ -5,15 +5,9 @@
 <p align="center">
 Finding Nth Fibonacci number in different programming languages
 </p>
-<a href="https://github.com/iamrajiv/Nth-Fibonacci/network">
-<img src="https://img.shields.io/github/forks/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge"/>
-</a>
-<a href="https://github.com/iamrajiv/Nth-Fibonacci/stargazers">
-<img src="https://img.shields.io/github/stars/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge"/>
-</a>
-<a href="https://github.com/iamrajiv/Nth-Fibonacci/blob/master/LICENSE">
-<img src="https://img.shields.io/github/license/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge"/>
-</a>
+<a href="https://github.com/iamrajiv/Nth-Fibonacci/network"><img src="https://img.shields.io/github/forks/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge"/></a>
+<a href="https://github.com/iamrajiv/Nth-Fibonacci/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge"/></a>
+<a href="https://github.com/iamrajiv/Nth-Fibonacci/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge"/></a>
 </div>
 
 ## About
