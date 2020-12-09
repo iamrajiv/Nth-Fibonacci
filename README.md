@@ -2,7 +2,7 @@
 <img src="assets/logo.svg" width="400" />
 <br />
 <h1>Nth Fibonacci</h1>
-<p align="center">
+<p>
 Finding Nth Fibonacci number in different programming languages
 </p>
 <a href="https://github.com/iamrajiv/Nth-Fibonacci/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Nth-Fibonacci?color=0366d6&style=for-the-badge" /></a>
