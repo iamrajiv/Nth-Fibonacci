@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo.svg" width="400" />
+<img src="assets/nth-fibonacci.svg" width="400" />
 <br />
 <h1>Nth Fibonacci</h1>
 <p>
