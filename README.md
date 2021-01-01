@@ -12,10 +12,9 @@ Finding Nth Fibonacci number in different programming languages
 
 ## About
 
-The Fibonacci sequence is defined as follows: the first number of the sequence is `0`, the second number is `1`, and the nth number is the sum of the (n - 1)th and (n - 2)th numbers. Write a function that takes in an integer `n` and returns the nth Fibonacci number.
+The Fibonacci sequence is an integer sequence defined by a simple linear recurrence relation. The sequence appears in many settings in mathematics and other sciences. In particular, the shape of many naturally occurring biological organisms is governed by the Fibonacci sequence and its close relative, the golden ratio.
 
-Important note:
-The Fibonacci sequence is often defined with its first two numbers as `F0 = 0` and `F1 = 1`. For this program, the first Fibonacci number is `F0`; therefore, `getNthFib(1)` is equal to `F0`, `getNthFib(2)` is equal to `F1` and so on.
+First two numbers as `F0 = 0` and `F1 = 1`. For the programs, the first Fibonacci number is `F0`; therefore, `getNthFib(1)` is equal to `F0`, `getNthFib(2)` is equal to `F1` and so on.
 
 **Sample Input 1**
 
