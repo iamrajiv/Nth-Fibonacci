@@ -14,7 +14,7 @@ Finding Nth Fibonacci number in different programming languages
 
 The Fibonacci sequence is an integer sequence defined by a simple linear recurrence relation. The sequence appears in many settings in mathematics and other sciences. In particular, the shape of many naturally occurring biological organisms is governed by the Fibonacci sequence and its close relative, the golden ratio.
 
-First two numbers as `F0 = 0` and `F1 = 1`. For the programs, the first Fibonacci number is `F0`; therefore, `getNthFib(1)` is equal to `F0`, `getNthFib(2)` is equal to `F1` and so on.
+For the programs, the first Fibonacci number is `F0 = 0` and the second Fibonacci number is `F1 = 1`. Therefore, `getNthFib(1)` is equal to `F0`, `getNthFib(2)` is equal to `F1` and so on.
 
 **Sample Input 1**
 
