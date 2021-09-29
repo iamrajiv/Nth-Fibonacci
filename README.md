@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/nth-fibonacci.svg" width="400" />
+<img src="assets/nth-fibonacci.svg" height="auto" width="400" />
 <br />
 <h1>Nth Fibonacci</h1>
 <p>
@@ -18,25 +18,25 @@ For the programs, the first Fibonacci number is `F0 = 0` and the second Fibonacc
 
 **Sample Input 1**
 
-```
+```markdown
 n = 2
 ```
 
 **Sample Output 1**
 
-```
+```markdown
 1 // 0, 1
 ```
 
 **Sample Input 2**
 
-```
+```markdown
 n = 6
 ```
 
 **Sample Output 2**
 
-```
+```markdown
 5 // 0, 1, 2, 3, 5
 ```
 
@@ -48,11 +48,11 @@ The formula to generate the nth Fibonacci number can be written as follows: F(n)
 
 **Approach 2: O(n) time | O(n) space**
 
-Find the runtime implications of solving this problem as is described in Approach 1 and use memoization (caching) to improve the performance of the algorithm.
+Find the runtime implications of solving this problem as described in Approach 1 and use memoization (caching) to improve the algorithm's performance.
 
 **Approach 3: O(n) time | O(1) space**
 
-To calculate any single Fibonacci number only need is to have two previous Fibonacci numbers. Knowing this, implement an iterative algorithm to solve this question, storing only the last two Fibonacci numbers at any given time.
+To calculate any single Fibonacci number, the only need is to have two previous Fibonacci numbers. Knowing this, implement an iterative algorithm to solve this question, storing only the last two Fibonacci numbers at any given time.
 
 ## License
 
