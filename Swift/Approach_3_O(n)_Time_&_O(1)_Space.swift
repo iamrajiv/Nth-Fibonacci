@@ -8,7 +8,6 @@ func getNthFib(n: Int) -> Int {
         let nextFib = lastTwo[0] + lastTwo[1]
         lastTwo[0] = lastTwo[1]
         lastTwo[1] = nextFib
-
         counter = counter + 1
     }
     return n > 1 ? lastTwo[1] : lastTwo[0]
